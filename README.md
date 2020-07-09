@@ -6,6 +6,6 @@
 
 📫 Encontre-me por aí:
 
-  - [Twitter] (https://twitter.com/opatrickgdl)
-  - [Instagram] (https://instagram.com/patrick.gl)
-  - [LinkedIn] (https://linkedin.com/in/patrickgdl)
+  - [Twitter](https://twitter.com/opatrickgdl)
+  - [Instagram](https://instagram.com/patrick.gl)
+  - [LinkedIn](https://linkedin.com/in/patrickgdl)
