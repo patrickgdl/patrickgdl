@@ -1,4 +1,4 @@
-## Olá!👋
+## Olá! 👋
 
 ⚡ Sou um desenvolvedor front-end que curte muito Javascript, principalmente Angular e toda sua stack.
 
