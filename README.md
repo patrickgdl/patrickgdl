@@ -6,8 +6,7 @@
 
 🌎 Encontre-me por aí:
 
-  🐦 [Twitter](https://twitter.com/opatrickgdl) <br>
-  📸 [Instagram](https://instagram.com/patrick.gl) <br>
-  💼 [LinkedIn](https://linkedin.com/in/patrickgdl) <br>
-  🚀 [Meu site](https://patricklima.dev)
-  
+  * 🐦 [Twitter](https://twitter.com/opatrickgdl) <br>
+  * 📸 [Instagram](https://instagram.com/patrick.gl) <br>
+  * 💼 [LinkedIn](https://linkedin.com/in/patrickgdl) <br>
+  * 🚀 [Meu site](https://patricklima.dev)
