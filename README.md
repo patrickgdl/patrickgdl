@@ -11,12 +11,10 @@
   * 💼 [LinkedIn](https://linkedin.com/in/patrickgdl) <br>
   * 🚀 [Meu site](https://patricklima.dev)
   
-⚡ Tecnologias
-
-Algumas tecnologias que eu trabalho com:
+⚡ Tecnologias que trabalho com:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -33,5 +31,5 @@ Algumas tecnologias que eu trabalho com:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-Next.Js-black?style=flat-square&logo=next.js)
+![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
