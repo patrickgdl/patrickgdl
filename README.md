@@ -1,4 +1,4 @@
-💻 Desenvolvedor front-end focado em frameworks Javascript. Atualmente trabalho no [PicPay](https://picpay.com.br), maior plataforma de carteira digital do Brasil.
+Desenvolvedor front-end focado em frameworks Javascript. Atualmente trabalho no [PicPay](https://picpay.com.br), maior plataforma de carteira digital do Brasil.
 
 🌱 Aprendendo mais sobre machine-learning e AI 🤖.
 
