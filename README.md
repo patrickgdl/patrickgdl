@@ -1,15 +1,15 @@
 Desenvolvedor front-end focado em frameworks Javascript. Atualmente trabalho no [PicPay](https://picpay.com.br), maior plataforma de carteira digital do Brasil.
 
-🌱 Aprendendo mais sobre machine-learning e AI 🤖.
+Aprendendo mais sobre machine-learning e AI.
 
-🌎 Encontre-me por aí:
+Encontre-me por aí:
 
   * 🐦 [Twitter](https://twitter.com/opatrickgdl) <br>
   * 📸 [Instagram](https://instagram.com/patrick.gl) <br>
   * 💼 [LinkedIn](https://linkedin.com/in/patrickgdl) <br>
   * 🚀 [Meu site](https://patricklima.dev)
   
-⚡ Tecnologias que trabalho com:
+Tecnologias que trabalho com:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
