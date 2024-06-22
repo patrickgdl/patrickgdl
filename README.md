@@ -1,6 +1,6 @@
-  * 👋 Oi, eu sou [@opatrickgdl](https://twitter.com/opatrickgdl)
-  * 👀 Tenho interesse em inteligência artificial, linguística, design, web e mais
-  * 🌱 Desenvolvo com JavaScript e principalmente React.
-  * 🏦 Atualmente trabalho na [C6Bank](https://www.c6bank.com.br), melhor banco digital do Brasil
-  * 💼 [Meu LinkedIn](https://linkedin.com/in/patrickgdl) <br>
-  * 🚀 [Meu site](https://patricklima.dev)
+* 👋 Hi, I'm [@opatrickgdl](https://twitter.com/opatrickgdl)
+* 👀 Interested in AI, linguistics, design, web development, and more
+* 🌱 Developing with JavaScript, mainly pure React and Next.js
+* 🏦 Currently working at [C6Bank](https://www.c6bank.com.br), the best digital bank in Brazil
+* 💼 [My LinkedIn](https://linkedin.com/in/patrickgdl)
+* 🚀 [My Website](https://patricklima.dev)
